@@ -1,1 +1,0 @@
-OpenGL mini-project, 包括分级结构，动画，阴影和纹理。
